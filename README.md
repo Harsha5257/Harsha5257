@@ -1,3 +1,4 @@
+![logo](https://github.com/Harsha5257/Harsha5257/blob/main/WhatsApp%20Image%202024-10-14%20at%2023.19.49_7e6e5915.jpg)
 <h1 align="center">Hi 👋, I'm Harsha Priya</h1>
 <h3 align="center">Aspiring data scientist and passionate about AI, machine learning, and data analysis.</h3>
 
