@@ -1,8 +1,3 @@
-- 👋 Hi, I’m Harsha
-- 👀 I’m interested in programming languages.
-- 🌱 I’m currently pursuing BCA with minor specialization in Artificial Intelligence.
-- 💞️ I’m looking to collaborate on projects related to Data Science, Data Analysis and AIML.
-- 📫 How to reach me https://www.linkedin.com/in/harsha-priya-8b7665252
 <h1 align="center">Hi 👋, I'm Harsha Priya</h1>
 <h3 align="center">Aspiring data scientist and passionate about AI, machine learning, and data analysis.</h3>
 
